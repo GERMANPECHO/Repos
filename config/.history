@@ -1,0 +1,5 @@
+cd..
+ls
+cd d:
+cd d: ;s
+cd d: ls
